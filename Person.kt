@@ -1,0 +1,1 @@
+class Person(val age: Int, val name: String)
