@@ -1,1 +1,0 @@
-class ClasePersonalizada(val age: Int)
